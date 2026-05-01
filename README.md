@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> قلبي ينادي لك مثل السيل
+> روحي تذوب في هواك الآن
+> أنت الأمان في هذا الزمان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
